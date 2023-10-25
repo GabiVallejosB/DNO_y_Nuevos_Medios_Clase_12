@@ -1,0 +1,59 @@
+[
+    {
+        "nombre": "KONECTA",
+        "fotos": ["https://raw.githubusercontent.com/GabiVallejosB/DNO_y_Nuevos_Medios_Clase_12/main/fotos/KONECTA1-_1_.webp", "https://raw.githubusercontent.com/GabiVallejosB/DNO_y_Nuevos_Medios_Clase_12/main/fotos/KONECTA2%20(1).webp", "https://raw.githubusercontent.com/GabiVallejosB/DNO_y_Nuevos_Medios_Clase_12/main/fotos/KONECTA%203%20(1).webp"],
+        "soporte": "sistema", 
+        "abstract": "Sistema que promueve es desarrollo STEAM en niños. Desarrollado junto a Kodea.",
+        "texto": "KONECTA busca promover el área STEAM, con el fin de incentivar el desarrollo de habilidades del siglo XXI en niños y adolescentes para que puedan implementarlas y tengan agencia sobre su trayectoria. Articula los conceptos de exploración, exposición e interés para promover la participación e involucramiento de niños y adolescentes. <br/> La propuesta del sistema articula diversos programas, entre los cuales se encuentra el programa Los Creadores, los Kodealabs, los Konecta Pop-up, los Desafíos Crea, los embajadores, el Club Los Creadores y konecta.cl.</br> El desarrollo del proyecto fue realizado junto a niños y adolescentes ex participantes del programa Los Creadores más la ayuda de profesionales expertos en el área STEAM."
+    },
+    {
+        "nombre": "Bitó Stool",
+        "fotos": ["https://raw.githubusercontent.com/GabiVallejosB/DNO_y_Nuevos_Medios_Clase_12/main/fotos/BITO3.webp", "https://raw.githubusercontent.com/GabiVallejosB/DNO_y_Nuevos_Medios_Clase_12/main/fotos/BITO1.webp", "https://raw.githubusercontent.com/GabiVallejosB/DNO_y_Nuevos_Medios_Clase_12/main/fotos/BITO2.webp"],
+        "soporte": "producto",
+        "abstract": "Piso inspirado en cúpulas arquitectónicas. Desarrollado para EyM.",
+        "texto": "Bitó Stool es un piso inspirado en estructuras arquitectónicas como cúpulas y arcos con doble curvatura. Su finalidad era convertirse en una pieza tipo statement en la decoración del hogar, enfocada en aquellos usuarios que desean incorporar detalles con personalidad en sus espacios. <br> Mediante múltiples iteraciónes para promover su resistencia estructural, se logró desarrollar una propuesta en base al plástico PBT que con 800g de peso es capaz de resistir más de 200kg.</br>"
+    },
+    {
+        "nombre": "RompePaga",
+        "fotos": ["https://raw.githubusercontent.com/GabiVallejosB/DNO_y_Nuevos_Medios_Clase_12/main/fotos/RP1.webp", "https://raw.githubusercontent.com/GabiVallejosB/DNO_y_Nuevos_Medios_Clase_12/main/fotos/RP2.webp", "https://raw.githubusercontent.com/GabiVallejosB/DNO_y_Nuevos_Medios_Clase_12/main/fotos/RP3.webp"],
+        "soporte": "sistema",
+        "abstract": "Diseño de galleta para instancias sociales. Desarrollado junto a Nestlé.",
+        "texto": "Desde el desafío de diseñar una galleta y su identidad para Nestlé, nace RompePaga, una galleta salada creada para contextos sociales en donde las interacciones y actividades son factores clave. <br> RompePaga es una galleta hexagonal rellena que espera ser considerada parte de los eventos más que ser simplemente un snack. Asociada con el juegeo de verdad o reto, la persona que se quede con el centro de la galleta al rompera deberá pagar una penitencia definida por el grupo. </br> Los sabores disponibles para la galleta son queso & ciboulette, queso & merkén y doble queso.<br> Como parte adicional de la experiencia, su packaging hexagonal cuenta en su interior con un código QR que ofrece una mayor cantidad de actividades para desarrollar en instancias sociales. </br> "
+    },
+    {
+        "nombre": "Luminaria Ecología Informal",
+        "fotos": ["https://raw.githubusercontent.com/GabiVallejosB/DNO_y_Nuevos_Medios_Clase_12/main/fotos/EI1.webp", "https://raw.githubusercontent.com/GabiVallejosB/DNO_y_Nuevos_Medios_Clase_12/main/fotos/EI2.webp", "https://raw.githubusercontent.com/GabiVallejosB/DNO_y_Nuevos_Medios_Clase_12/main/fotos/EI3%20(2).webp"],
+        "soporte": "sistema",
+        "abstract": "Luminaria de emergencia para Campamento. Proyecto en colaboración con Ecología Informal.",
+        "texto": "El proyecto con Ecología Informal nace de la necesidad identificada en relación con el acceso y uso de la energía en el Campamento Ribera del Río en Talagante. El objetivo del proyecto fue abordarlo desde las perspectivas de distribuir, generar y reemplazar la energía. <br> El desarrollo del proyecto se dió a través de sesiones de codiseño con la comunidad, en donde a través de diversas actividades se fue perfilando y validando la propuesta final. Los requisitos del proyecto fueron 3: que este sea independiente del cableado eléctrico, que la propuesta sea resistente a la delincuencia y el maltrato y que no sea posible robarse la energía que dispone la propuesta. A partir de ello, se buscó crear na solución que integrara una luminaria y un sistema de alerta para generar un sentdo de seguridad entre los vecinos. </br>"
+    },
+    {
+        "nombre": "INTERRA",
+        "fotos": ["https://raw.githubusercontent.com/GabiVallejosB/DNO_y_Nuevos_Medios_Clase_12/main/fotos/IN1.webp", "https://raw.githubusercontent.com/GabiVallejosB/DNO_y_Nuevos_Medios_Clase_12/main/fotos/IN2.webp", "https://raw.githubusercontent.com/GabiVallejosB/DNO_y_Nuevos_Medios_Clase_12/main/fotos/IN3.webp"],
+        "soporte": "sistema",
+        "abstract": "Producto 3M para el cuidado de plantas en el hogar.",
+        "texto": "INTERRA es uno de los productos de la línea Greencare que busca traer simpleza y control al momento de conocer el estado de las plantas. Consiste en papeles sensores colorimétricos de un solo uso que reaccionan frente a distintos factores que inciden en las plantas, con un enfoque en los nutrientes esenciales: nitrógeno, potasio y fósforo. <br> Junto con Interra, la línea Greencare ofrece la posibilidad de complementarse con su aplicación para dispositivos móviles, ideal para los Verdennials, quienes pueden encontrar todo lo que necesitan con unos pocos toques.Las principales funciones de esta app son la profundización de resultados de las mediciones, personalización y tracking de las plantas, ayuda y soluciones para problemas con las plantas y recomendaciones de productos 3M relacionados.</br> "
+    },
+    {
+        "nombre": "Grabber Tool",
+        "fotos": ["https://raw.githubusercontent.com/GabiVallejosB/DNO_y_Nuevos_Medios_Clase_12/main/fotos/GT1.webp", "https://raw.githubusercontent.com/GabiVallejosB/DNO_y_Nuevos_Medios_Clase_12/main/fotos/GT2.webp", "https://raw.githubusercontent.com/GabiVallejosB/DNO_y_Nuevos_Medios_Clase_12/main/fotos/GT3.webp"],
+        "soporte": "producto",
+        "abstract": "Pick-up tool ergonómico para uso en laboratorios de química.",
+        "texto": "Esta pick-up tool espera facilitar la interacción que trabajadores de laboratorios químicos tienen con elementos peligrosos o calientes al momento de hacer experimentos. La propuesta contempla ser desarrollada con materiales resistentes, y con superficies suaves pero firmes para el contacto con instrumentos de laboratorio de vidrio. <br>EL producto cuenta con soporte adicional consideranto el tipo de interacciones realizadas en el contexto definido, así como la precisión necesaria para ejecutar las labores establecidas en un laboratorio. </br> El proyecto fue desarrollado en un curso de la University of Technology Sydney con profesionales de diseño de productos y ergonomía. Se trabajó con estudiantes del departamento de química para desarrollar la propuesta."
+    },
+    {
+        "nombre": "Zeta",
+        "fotos": ["https://raw.githubusercontent.com/GabiVallejosB/DNO_y_Nuevos_Medios_Clase_12/main/fotos/ZETA1.webp", "https://raw.githubusercontent.com/GabiVallejosB/DNO_y_Nuevos_Medios_Clase_12/main/fotos/ZETA2.webp", "https://raw.githubusercontent.com/GabiVallejosB/DNO_y_Nuevos_Medios_Clase_12/main/fotos/ZETA3.webp"],
+        "soporte": "producto",
+        "abstract": "Proyecto mobiliario para Campus Lo Contador.",
+        "texto": "La propuesta de mobiliario Zeta para el Campus Lo Contador, nace de la iniciativa de promover espacios de creación dentro del campus, reutilizando plástico potencialmente reciclable. <br> Este taburete es fabricado a partir de la extrusión e inyección de pellets plásticos de desecho. Esto permite crear combinaciones de colores atractivas en donde todas las piezas tendrán su apariencia única. </br> Las dimensiones y estructura de Zeta toma en consideración la multiplicidad de interacciones presentes en el campus. </br>"
+    },
+    {
+        "nombre": "GEO Chair",
+        "fotos": ["https://raw.githubusercontent.com/GabiVallejosB/DNO_y_Nuevos_Medios_Clase_12/main/fotos/CMD1-_1_.webp", "https://raw.githubusercontent.com/GabiVallejosB/DNO_y_Nuevos_Medios_Clase_12/main/fotos/CMD2.webp", "https://raw.githubusercontent.com/GabiVallejosB/DNO_y_Nuevos_Medios_Clase_12/main/fotos/CMD3.webp"],
+        "soporte": "producto",
+        "abstract": "Silla ergonómica y de cartón, inspirada en el movimiento De Stijl.",
+        "texto": "La silla Red and Blue resulta un manifiesto del movimiento De Stijl. Dentro de él existía un debate respecto a la predominancia del factor escultórico por sobre el ergonómico expresado mendiante el uso de colores vivos y superficies planas, las cuales generan cierta incomodidad.<br> GEO Chair es una silla de tipo lounge inspirada en la silla Red and Blue, la cual busca incluir asgos geométricos y colores del movimiento De Stijl con una aproximación más ergonómica. Se trata de una combinación entre el dinamismo del color y geometrías sencillas.</br> Esta silla siguiere el aumento de la altura poplítea, en función de una mejor interacción y experiencia al pararse y sentarse. Adicionalmente rescata la inclinación de 107° definida en la Red and Blue ya que se reconoce como la inclinación ideal de reposo. </br>"
+    }
+
+]
